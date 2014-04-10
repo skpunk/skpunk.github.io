@@ -1,0 +1,1 @@
+A clone of 2048 with tile pictures instead of numbers and changed text colors and background.
